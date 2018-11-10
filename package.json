@@ -1,0 +1,26 @@
+{
+  "name": "fetch-github-graphql",
+  "version": "1.0.0",
+  "description": "GitHub Graphql - Send request using Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Nice test :)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/Fetch-GitHub-Graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "github",
+    "github-api",
+    "fetch-api",
+    "webpack"
+  ],
+  "author": "TiagoDanin <TiagoDanin@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/Fetch-GitHub-Graphql/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/Fetch-GitHub-Graphql#readme"
+}
